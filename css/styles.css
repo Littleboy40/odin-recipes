@@ -1,0 +1,16 @@
+a {
+    font-size: 50px
+}
+
+h1 {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+h2 {
+    background-image: url("../images/the-look.jpg");
+    height: 300px;
+}
+
+li {
+    font-style: italic;
+}
